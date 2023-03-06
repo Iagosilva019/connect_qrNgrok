@@ -2,12 +2,12 @@
 
 # Indice:
 <div align="height"><br>
-  <a href="https://github.com/Iagosilva019/config_ngrok#sobre-esta-ferramenta"> - Sobre a ferramenta</a><br>
+  <a href="https://github.com/Iagosilva019/connect_qrNgrok#sobre-esta-ferramenta"> - Sobre a ferramenta</a><br>
   <a href="https://github.com/Iagosilva019/config_ngrok#compatibilidade"> - Compatibilidade</a><br>
   <a href="https://github.com/Iagosilva019/config_ngrok#tecnologias-requeridas-para-o-funcionamento-da-ferramenta"> - Tecnlogias requeridas</a><br>
   <a href="https://github.com/Iagosilva019/config_ngrok#como-instalar-e-executar"> - Como instalar e executar </a><br>
   <a href="https://github.com/Iagosilva019/config_ngrok#nota-importante"> - Nota importante</a><br>
-  <a href="https://github.com/Iagosilva019/config_ngrok#licen%C3%A7a"> - Licença</a><br>
+  <a href="https://github.com/Iagosilva019/connect_qrNgrok#licenca"> - Licença</a><br>
 
 
 </div><br>
@@ -96,7 +96,7 @@ http.server não é recomendado para produção. Ele apenas implementa verifica�
 
 
 
-# LICENÇA:
+# LICENCA:
 
 Licença MIT
 
