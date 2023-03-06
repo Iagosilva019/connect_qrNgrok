@@ -8,6 +8,8 @@
   <a href="https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#compatibilidade"> - Compatibilidade</a><br>
   <a href="https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#tecnologias-requeridas-para-o-funcionamento-da-ferramenta"> - Tecnlogias requeridas</a><br>
   <a href="https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#como-instalar-e-executar"> - Como instalar e executar </a><br>
+  <a href=" https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#imagens"> - Imagens</a><br>
+ 
   <a href="https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#nota-importante"> - Nota importante</a><br>
   <a href="https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#licenca"> - Licença</a><br>
 
@@ -88,6 +90,16 @@ https://ngrok.com/download
 # COMO INSTALAR E EXECUTAR:
 
   ....
+ 
+# IMAGENS:
+<div align="height"><br>
+<img align="center" alt="Iago-Terminal"  src="https://user-images.githubusercontent.com/92806149/223123951-525d80e5-c41d-4a90-835b-184227902f6b.png"><br><br>
+<img align="center" alt="Iago-Terminal"  src="https://user-images.githubusercontent.com/92806149/223125436-c56fec97-dc87-43be-b74a-0e338b8c9bb9.png">
+  
+</div><br>
+
+
+
 
 # NOTA IMPORTANTE:
 Não é de total garantia que funcione em outros sistemas e navegadores, pois a ferramenta está em fase de adaptação.
