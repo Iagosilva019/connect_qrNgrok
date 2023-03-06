@@ -1,6 +1,6 @@
 # connect_qrNgrok
 
-<img align="center" alt="Iago-Terminal" height="400" width="500" src="https://user-images.githubusercontent.com/92806149/223113412-8153ee9d-9e81-43a6-b195-b0e396a2410e.png">
+<img align="center" alt="Iago-Terminal" height="350" width="400" src="https://user-images.githubusercontent.com/92806149/223113412-8153ee9d-9e81-43a6-b195-b0e396a2410e.png">
 
 # Indice:
 <div align="height"><br>
