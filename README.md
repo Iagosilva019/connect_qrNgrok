@@ -1,5 +1,7 @@
 # connect_qrNgrok
 
+<img align="center" alt="Iago-Terminal" height="500" src="https://user-images.githubusercontent.com/92806149/223113412-8153ee9d-9e81-43a6-b195-b0e396a2410e.png">
+
 # Indice:
 <div align="height"><br>
   <a href="https://github.com/Iagosilva019/connect_qrNgrok#sobre-esta-ferramenta"> - Sobre a ferramenta</a><br>
