@@ -104,7 +104,7 @@ https://ngrok.com/download
 # NOTA IMPORTANTE:
 Não é de total garantia que funcione em outros sistemas e navegadores, pois a ferramenta está em fase de adaptação.
 
- <a href="https://github.com/Iagosilva019/config_ngrok/blob/main/README.md#-sistema-e-navegador-testado">Sistema e navegador testado</a>
+ <a href="https://github.com/Iagosilva019/connect_qrngrok/blob/main/README.md#-sistema-e-navegador-testado">Sistema e navegador testado</a>
  
 http.server não é recomendado para produção. Ele apenas implementa verificações básicas de segurança .
 
