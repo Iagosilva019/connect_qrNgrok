@@ -1,6 +1,5 @@
 # connect_qrNgrok
 
-
 # Indice:
 <div align="height"><br>
   <a href="https://github.com/Iagosilva019/config_ngrok#sobre-esta-ferramenta"> - Sobre a ferramenta</a><br>
@@ -12,10 +11,6 @@
 
 
 </div><br>
-
-
-
-
 
 # SOBRE ESTA FERRAMENTA:
  A ferramenta foi desenvolvida com intuito de facilitar o processo demorado de ter que copiar o link para compartilhar com seus clientes, pensado nisso, conta somente com duas funcinalidades, uma para ligar o tunel e outra para gerar um qrcode, assim,dimunuindo o processo demorado do ngrok.
@@ -34,11 +29,7 @@
  
  <img align="center" alt="Iago-Terminal" width="30" height="30" src="https://user-images.githubusercontent.com/92806149/222975781-66859ae2-3190-433d-8d6d-f00e373fecca.png"  style="margin:50px">
 </div><br>
-   
-
-   
-
-    
+  
   <h3> Navegadores:</h3>
   
 <div align="height"><br>
@@ -94,8 +85,7 @@ https://ngrok.com/download
 
 # COMO INSTALAR E EXECUTAR:
 
-  ..
-
+  ....
 
 # NOTA IMPORTANTE:
 Não é de total garantia que funcione em outros sistemas e navegadores, pois a ferramenta está em fase de adaptação.
@@ -113,6 +103,6 @@ Licença MIT
 Copyright (c) 2023 Iago_Linux
 
 
-
+Kdkdkdkkdkd
 
 
