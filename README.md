@@ -8,7 +8,7 @@
   <a href="https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#compatibilidade"> - Compatibilidade</a><br>
   <a href="https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#tecnologias-requeridas-para-o-funcionamento-da-ferramenta"> - Tecnlogias requeridas</a><br>
   <a href="https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#como-instalar-e-executar"> - Como instalar e executar </a><br>
-  <a href=" https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#imagens"> - Imagens</a><br>
+  <a href="https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#imagens"> - Imagens</a><br>
  
   <a href="https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#nota-importante"> - Nota importante</a><br>
   <a href="https://github.com/Iagosilva019/connect_qrNgrok/blob/main/README.md#licenca"> - Licença</a><br>
